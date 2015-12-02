@@ -10,7 +10,6 @@ def Login(url):
             "Content-Type": "application/x-www-form-urlencoded",
             "Accept-Encoding": "gzip, deflate",
             "User-Agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)",
-            "Host": "passport.baidu.com",
             "Connection": "Keep-Alive",
             "Cache-Control": "no-cache"
             }
